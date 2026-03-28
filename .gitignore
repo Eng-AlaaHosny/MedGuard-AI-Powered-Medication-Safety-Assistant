@@ -1,0 +1,14 @@
+venv/
+backend/venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.dll
+*.bin
+*.pt
+*.pth
+*.pkl
+*.db
+.env
+.DS_Store
+*.xml
