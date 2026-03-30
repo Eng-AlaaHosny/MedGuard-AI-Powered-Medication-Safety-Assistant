@@ -8,7 +8,7 @@ in the venv envi run :
 python main.py
 ```
 the last training results without fusing the knowledge graph 
-( checkpoint file is named 
+( checkpoint file is named best_model_3heads.pt in the google drive link )
 <img width="1035" height="222" alt="image" src="https://github.com/user-attachments/assets/f0ccc765-0715-4aff-993e-83bd12edb712" />
 
 ```
