@@ -3,10 +3,12 @@ https://drive.google.com/drive/folders/1qBovw44ooOrlT1yP_onUIVjUtQX2CEAq?usp=sha
 the checkpoints 
 
 to run the demo 
+in the venv envi run :
+```bash
 python main.py
+```
 
-
-"""
+```
 MEDGUARD/
 │
 ├── backend/
@@ -63,5 +65,5 @@ MEDGUARD/
 ├── main.py
 ├── .gitignore
 
-"""
+```
  
