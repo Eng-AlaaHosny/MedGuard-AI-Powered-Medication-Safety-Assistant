@@ -15,6 +15,10 @@ the last training results without fusing the knowledge graph
 Traing with the KG 
 <img width="872" height="401" alt="image" src="https://github.com/user-attachments/assets/1652d965-434f-4304-971c-bab2762d825e" />
 
+more training with 10 epoch 
+<img width="995" height="293" alt="image" src="https://github.com/user-attachments/assets/e4675d4e-8aee-4978-b103-0516143e650e" />
+
+
 ```
 MEDGUARD/
 │
